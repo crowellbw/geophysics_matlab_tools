@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %gpstimeconv.m
 %Takes in GPS time by week and second and converts to GPS day and time
-%Will take in vectors of years or single value
+%Will take in vectors of weeks/seconds or single value
 %Written by Brendan Crowell, University of Washington, crowellb@uw.edu
 %github, crowellbw
 %Last modified November 21, 2017
