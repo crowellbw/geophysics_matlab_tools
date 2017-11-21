@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %doy_calc.m
-%Computes the day of the year (0 to 365 or 365 depending on leap year)
+%Computes the day of the year (0 to 365 or 366 depending on leap year)
 %Will take in vectors of years/months/days or single value
 %Written by Brendan Crowell, University of Washington, crowellb@uw.edu
 %github, crowellbw
